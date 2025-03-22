@@ -152,3 +152,5 @@ Enhance the project with these ideas:
 - *GUI Upgrade:* Replace EJS with a modern framework like React for a richer UI.
 - *Mobile App:* Develop a companion app for on-the-go attendance tracking.
 - *Analytics:* Add attendance trends and insights using data from MongoDB.
+
+Demo_Link: https://www.youtube.com/watch?v=hm01gw_WiKk&feature=youtu.be
